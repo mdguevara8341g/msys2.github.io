@@ -144,4 +144,7 @@ In the native Windows world this path doesn't make much sense, as `C:\mingw64`
 likely doesn't match where the software lives, but ideally all native Windows
 tools are relocatable and won't use the prefix at runtime anyway. And if they do
 and happen to call Cygwin tools then the prefix resolves to the correct path
-because the Cygwin root path is relocatable.
+because the Cygwin root path is relocatable.091302966,304167516653,Mary Guevara,¹111##1112113468⁸
+304167516653,4115680172362645,242391770earleave
+
+
